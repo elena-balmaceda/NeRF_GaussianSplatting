@@ -6,3 +6,6 @@ https://www.matthewtancik.com/nerf
 AWS: What is Neural Radiance Fields?: A concise and easy-to-digest explanation of NeRF.
 
 https://aws.amazon.com/what-is/neural-radiance-fields/
+
+## Useful resources: PDFs
+[Paper: Nerf View Synthesis]<./articles/Nerf View Synthesis.pdf>
