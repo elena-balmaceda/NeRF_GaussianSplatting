@@ -7,7 +7,7 @@ The primary goal of this repository is to track my journey in learning and under
 
 ## **What's Inside?**
 
-/articles: PDFs and links to influential papers and research articles.
+/articles and links: PDFs and links to influential papers and research articles.
 
 ## **Key Concepts**
 
