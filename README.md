@@ -3,7 +3,6 @@
 
 Welcome! This repository serves as a personal collection of files, articles, papers, and learning resources related to Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS).
 
-The primary goal of this repository is to track my journey in learning and understanding these state-of-the-art techniques for novel view synthesis and 3D reconstruction. 
 
 ## **What's Inside?**
 
