@@ -1,11 +1,12 @@
 ## **Useful resources: links**
 Matthew Tancik's NeRF Webpage: A fantastic collection of resources, papers, and links related to NeRF from one of the key contributors.
-
 https://www.matthewtancik.com/nerf
 
 AWS: What is Neural Radiance Fields?: A concise and easy-to-digest explanation of NeRF.
-
 https://aws.amazon.com/what-is/neural-radiance-fields/
+
+nerfstudio documentation
+https://docs.nerf.studio/index.html
 
 ### **Useful resources: PDFs**
 * [Paper: NeRF View Synthesis](./articles/NeRF%20View%20Synthesis.pdf)
