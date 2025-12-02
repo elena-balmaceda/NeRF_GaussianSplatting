@@ -9,3 +9,5 @@
 ## Others
 * Photogrammetry, NeRF and Gaussian Splatting comparison:
   https://www.youtube.com/watch?v=KFOy354zf9E
+* Nerfstudio:
+  https://www.youtube.com/watch?v=38jCys1ZvOw
